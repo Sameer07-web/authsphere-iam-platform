@@ -1,2 +1,3 @@
-# authsphere-iam-platform
-Enterprise Identity &amp; Access Management Platform featuring JWT Authentication, Refresh Token Rotation, RBAC, Redis Session Management, Audit Logging, and Security-First Architecture.
+# 🚀 AuthSphere IAM Platform
+
+Enterprise-grade multi-tenant Identity & Access Management (IAM) platform built with Node.js, TypeScript, PostgreSQL, Redis, and BullMQ.
